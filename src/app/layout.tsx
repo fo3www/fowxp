@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "fowww.xp — экспериментальная музыка",
   description:
-    "Рабочий стол fowww: треки с SoundCloud плиткой, встроенный проигрыватель и панель управления в эстетике Windows XP.",
+    "ЗАЙДИ ГЛЯНЬ НУ ЧЕ ТЫ??",
 };
 
 export const viewport: Viewport = {
