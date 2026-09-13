@@ -174,7 +174,7 @@ export default function AdminWindow({
             </button>
           </div>
           <div className="mt-3 text-[10.5px] text-[#666]">
-            На хостинге пароль задается защищенной переменной окружения <b>ADMIN_PASSWORD</b>.
+            выйди.
           </div>
         </form>
       </div>
