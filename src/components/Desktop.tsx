@@ -167,7 +167,7 @@ export default function Desktop({ initialSettings, initialTracks, initialAdmin }
           <div className="text-[34px] font-bold tracking-tight">
             fowww<span className="text-[#ff8a00]">XP</span>
           </div>
-          <div className="text-[12px] opacity-70">загрузка звукосодержащего продукта...</div>
+          <div className="text-[12px] opacity-70">ща ща ща...</div>
           <div className="xp-boot-bar">
             <i />
             <i />
